@@ -1,0 +1,51 @@
+state_code,district_code,india_states,division,group,class,nic_name,main_workers_total_persons,main_workers_total_males,main_workers_total_females,main_workers_rural_persons,main_workers_rural_males,main_workers_rural_females,main_workers_urban_persons,main_workers_urban_males,main_workers_urban_females,marginal_workers_total_persons,marginal_workers_total_males,marginal_workers_total_females,marginal_workers_rural_persons,marginal_workers_rural_males,marginal_workers_rural_females,marginal_workers_urban_persons,marginal_workers_urban_males,marginal_workers_urban_females,source_state,industry_group
+`34,`000,STATE - PUDUCHERRY,`00,`000,`0000,Total,39807,28649,11158,14996,10914,4082,24811,17735,7076,4639,2868,1771,2212,1354,858,2427,1514,913,Puducherry,Other/Uncategorized
+`34,`000,STATE - PUDUCHERRY,`01,`000,`0000,"Crop and animal production, hunting and related service activities",630,445,185,356,244,112,274,201,73,171,109,62,144,86,58,27,23,4,Puducherry,Agriculture
+`34,`000,STATE - PUDUCHERRY,`01,`012,`0000,Growing of perennial crops,9,9,0,6,6,0,3,3,0,0,0,0,0,0,0,0,0,0,Puducherry,Agriculture
+`34,`000,STATE - PUDUCHERRY,`01,`012,`0126,Growing of oleaginous fruits,3,3,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,Puducherry,Other/Uncategorized
+`34,`000,STATE - PUDUCHERRY,`01,`012,`0127,Growing of beverage crops,6,6,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Puducherry,Agriculture
+`34,`000,STATE - PUDUCHERRY,`01,`014,`0000,Animal production,137,47,90,90,24,66,47,23,24,28,14,14,28,14,14,0,0,0,Puducherry,Agriculture
+`34,`000,STATE - PUDUCHERRY,`01,`014,`0141,Raising of cattle and buffaloes,107,41,66,60,18,42,47,23,24,16,8,8,16,8,8,0,0,0,Puducherry,Other/Uncategorized
+`34,`000,STATE - PUDUCHERRY,`01,`014,`0144,Raising of sheep and goats,22,0,22,22,0,22,0,0,0,12,6,6,12,6,6,0,0,0,Puducherry,Other/Uncategorized
+`34,`000,STATE - PUDUCHERRY,`01,`014,`0146,Raising of poultry,6,6,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Puducherry,Agriculture
+`34,`000,STATE - PUDUCHERRY,`01,`014,`0149,Raising of other animals,2,0,2,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,Puducherry,Agriculture
+`34,`000,STATE - PUDUCHERRY,`01,`016,`0000,Support activities to agriculture and post-harvest crop activities,484,389,95,260,214,46,224,175,49,137,89,48,116,72,44,21,17,4,Puducherry,Agriculture
+`34,`000,STATE - PUDUCHERRY,`01,`016,`0161,Support activities for crop production,387,297,90,210,164,46,177,133,44,129,85,44,112,70,42,17,15,2,Puducherry,Agriculture
+`34,`000,STATE - PUDUCHERRY,`01,`016,`0163,Post-harvest crop activities,97,92,5,50,50,0,47,42,5,8,4,4,4,2,2,4,2,2,Puducherry,Agriculture
+`34,`000,STATE - PUDUCHERRY,`01,`017,`0000,"Hunting, trapping and related service activities",0,0,0,0,0,0,0,0,0,6,6,0,0,0,0,6,6,0,Puducherry,Other/Uncategorized
+`34,`000,STATE - PUDUCHERRY,`01,`017,`0170,"Hunting, trapping and related service activities",0,0,0,0,0,0,0,0,0,6,6,0,0,0,0,6,6,0,Puducherry,Other/Uncategorized
+`34,`000,STATE - PUDUCHERRY,`02,`000,`0000,Forestry and logging,32,30,2,16,14,2,16,16,0,9,9,0,6,6,0,3,3,0,Puducherry,Agriculture
+`34,`000,STATE - PUDUCHERRY,`02,`022,`0000,Logging,29,27,2,16,14,2,13,13,0,3,3,0,0,0,0,3,3,0,Puducherry,Other/Uncategorized
+`34,`000,STATE - PUDUCHERRY,`02,`022,`0220,Logging,29,27,2,16,14,2,13,13,0,3,3,0,0,0,0,3,3,0,Puducherry,Other/Uncategorized
+`34,`000,STATE - PUDUCHERRY,`02,`024,`0000,Support services to forestry,3,3,0,0,0,0,3,3,0,6,6,0,6,6,0,0,0,0,Puducherry,Agriculture
+`34,`000,STATE - PUDUCHERRY,`02,`024,`0240,Support services to forestry,3,3,0,0,0,0,3,3,0,6,6,0,6,6,0,0,0,0,Puducherry,Agriculture
+`34,`000,STATE - PUDUCHERRY,`03,`000,`0000,Fishing and aquaculture,30,30,0,12,12,0,18,18,0,9,7,2,2,2,0,7,5,2,Puducherry,Agriculture
+`34,`000,STATE - PUDUCHERRY,`03,`031,`0000,Fishing,30,30,0,12,12,0,18,18,0,5,5,0,2,2,0,3,3,0,Puducherry,Agriculture
+`34,`000,STATE - PUDUCHERRY,`03,`031,`0311,Marine fishing,30,30,0,12,12,0,18,18,0,5,5,0,2,2,0,3,3,0,Puducherry,Agriculture
+`34,`000,STATE - PUDUCHERRY,`03,`032,`0000,Aquaculture,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,4,2,2,Puducherry,Other/Uncategorized
+`34,`000,STATE - PUDUCHERRY,`03,`032,`0321,Marine aquaculture,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,4,2,2,Puducherry,Other/Uncategorized
+`34,`000,STATE - PUDUCHERRY,`05,`000,`0000,Mining of coal and lignite,18,12,6,12,6,6,6,6,0,0,0,0,0,0,0,0,0,0,Puducherry,Mining & Quarrying
+`34,`000,STATE - PUDUCHERRY,`05,`051,`0000,Mining of hard coal,3,3,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,Puducherry,Mining & Quarrying
+`34,`000,STATE - PUDUCHERRY,`05,`051,`0510,Mining of hard coal,3,3,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,Puducherry,Mining & Quarrying
+`34,`000,STATE - PUDUCHERRY,`05,`052,`0000,Mining of lignite,15,9,6,12,6,6,3,3,0,0,0,0,0,0,0,0,0,0,Puducherry,Mining & Quarrying
+`34,`000,STATE - PUDUCHERRY,`05,`052,`0520,Mining of lignite,15,9,6,12,6,6,3,3,0,0,0,0,0,0,0,0,0,0,Puducherry,Mining & Quarrying
+`34,`000,STATE - PUDUCHERRY,`06,`000,`0000,Extraction of crude petroleum and natural gas,51,45,6,0,0,0,51,45,6,3,3,0,0,0,0,3,3,0,Puducherry,Utilities
+`34,`000,STATE - PUDUCHERRY,`06,`061,`0000,Extraction of crude petroleum,6,6,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,Puducherry,Other/Uncategorized
+`34,`000,STATE - PUDUCHERRY,`06,`061,`0610,Extraction of crude petroleum,6,6,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,Puducherry,Other/Uncategorized
+`34,`000,STATE - PUDUCHERRY,`06,`062,`0000,Extraction of natural gas,45,39,6,0,0,0,45,39,6,3,3,0,0,0,0,3,3,0,Puducherry,Utilities
+`34,`000,STATE - PUDUCHERRY,`06,`062,`0620,Extraction of natural gas,45,39,6,0,0,0,45,39,6,3,3,0,0,0,0,3,3,0,Puducherry,Utilities
+`34,`000,STATE - PUDUCHERRY,`08,`000,`0000,Other mining and quarrying,24,22,2,8,6,2,16,16,0,2,2,0,0,0,0,2,2,0,Puducherry,Mining & Quarrying
+`34,`000,STATE - PUDUCHERRY,`08,`081,`0000,"Quarrying of stone, sand and clay",18,16,2,2,0,2,16,16,0,2,2,0,0,0,0,2,2,0,Puducherry,Mining & Quarrying
+`34,`000,STATE - PUDUCHERRY,`08,`081,`0810,"Quarrying of stone, sand and clay",18,16,2,2,0,2,16,16,0,2,2,0,0,0,0,2,2,0,Puducherry,Mining & Quarrying
+`34,`000,STATE - PUDUCHERRY,`08,`089,`0000,Mining and quarrying n.e.c.,6,6,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Puducherry,Mining & Quarrying
+`34,`000,STATE - PUDUCHERRY,`08,`089,`0891,Mining of chemical and fertilizer minerals,6,6,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Puducherry,Manufacturing - Chemicals
+`34,`000,STATE - PUDUCHERRY,`09,`000,`0000,Mining support service activities,28,22,6,6,6,0,22,16,6,0,0,0,0,0,0,0,0,0,Puducherry,Mining & Quarrying
+`34,`000,STATE - PUDUCHERRY,`09,`091,`0000,Support activities for petroleum and natural gas mining,28,22,6,6,6,0,22,16,6,0,0,0,0,0,0,0,0,0,Puducherry,Mining & Quarrying
+`34,`000,STATE - PUDUCHERRY,`09,`091,`0910,Support activities for petroleum and natural gas mining,28,22,6,6,6,0,22,16,6,0,0,0,0,0,0,0,0,0,Puducherry,Mining & Quarrying
+`34,`000,STATE - PUDUCHERRY,`10,`000,`0000,Manufacture of food products,491,256,235,320,156,164,171,100,71,71,23,48,52,18,34,19,5,14,Puducherry,Manufacturing - Food
+`34,`000,STATE - PUDUCHERRY,`10,`101,`0000,Processing and preserving of meat,6,6,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,Puducherry,Manufacturing - Food
+`34,`000,STATE - PUDUCHERRY,`10,`101,`1010,Processing and preserving of meat,6,6,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,Puducherry,Manufacturing - Food
+`34,`000,STATE - PUDUCHERRY,`10,`102,`0000,"Processing and preserving of fish, crustaceans and molluscs",6,0,6,6,0,6,0,0,0,2,0,2,2,0,2,0,0,0,Puducherry,Agriculture
+`34,`000,STATE - PUDUCHERRY,`10,`102,`1020,"Processing and preserving of fish, crustaceans and molluscs and",6,0,6,6,0,6,0,0,0,2,0,2,2,0,2,0,0,0,Puducherry,Agriculture
+`34,`000,STATE - PUDUCHERRY,`10,`103,`0000,Processing and preserving of fruit and vegetables,23,23,0,20,20,0,3,3,0,0,0,0,0,0,0,0,0,0,Puducherry,Other/Uncategorized
+`34,`000,STATE - PUDUCHERRY,`10,`103,`1030,Processing and preserving of fruit and vegetables,23,23,0,20,20,0,3,3,0,0,0,0,0,0,0,0,0,0,Puducherry,Other/Uncategorized
